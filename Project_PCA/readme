@@ -1,0 +1,7 @@
+#All training data are stored in directory ./train, all testing data are stored in directory ./test
+
+#
+
+#If we run CutImage.py, then we will automatically generate GEI for each training and testing set
+
+
